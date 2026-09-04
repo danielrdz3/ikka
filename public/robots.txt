@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://ikkaconsultores.com/sitemap.xml
+
+# Disallow admin or private paths (none currently, placeholder for future)
+# Disallow: /admin/
+
+# Crawl-delay for polite crawlers
+Crawl-delay: 10
